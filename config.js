@@ -18,13 +18,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
+global.owner = ['62882007804496','6283825289775','6283842942635']
+global.pemilik = ['62882007804496']
 global.premium = ['6281365814200']
 global.pengguna = 'Nama Lu Isi'
-global.botnma = 'Lycho Bot'
-global.ownernma = 'KahfzXzy'
-global.packname = 'Lycho Bot'
+global.botnma = 'Bot Xtreshe-Mdོ'
+global.ownernma = 'ᴹᴿ᭄ Dexterོ ×፝֟͜×'
+global.packname = 'Di Buat Oleh Dexter'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
